@@ -1,0 +1,81 @@
+
+.head{
+  background: grey;
+  margin-right: auto;
+  background-image: url("images/image2.jpg");
+    height: 200px;
+}
+.head h2{
+  padding-top: 50px;
+  text-align: center;
+  margin: auto;
+  font-family:  Timesnewroman;
+  font-size: 100px;
+  text-decoration-style: double;
+  text-shadow: 10px,0,0,10px;
+}
+nav li{
+  display: inline;
+  float:right;
+  text-decoration: none;
+  padding-right: 10px;
+  margin-top: 10px;
+  font-family: Timesnewroman;
+  font-size: 25px;
+  padding-top:0px;
+}
+ul li a { text-decoration: none; }
+  a:hover {
+    color: hotpink;
+text-decoration: underline;
+}
+img{
+  width: 300px;
+  height: 250px;
+  padding-top: 15px;
+}
+p{
+  width: 250px;
+  height: 150px;
+}
+.main{
+  align-items: center;
+  margin-top: 10px;
+}
+.body{
+  background:grey;
+}
+.body p{
+   width: 350px;
+  height:250px;
+  float:right;
+}
+.body img{
+  width:300px;
+  height: 300px;
+
+}
+.image {
+  background: grey;
+}
+.image ol li p {
+  width: 250px;
+ height:200px;
+ float:left;
+}
+.image img{
+  width:450px;
+  height:450px;
+}
+.hero img{
+  margin: auto;
+  height: 600px;
+  width: 600px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;
+}
